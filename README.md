@@ -25,8 +25,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyanfr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Siyanfr&icon=1&color=4)](https://visitcount.itsvg.in)
