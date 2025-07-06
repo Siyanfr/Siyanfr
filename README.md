@@ -27,7 +27,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Siyanfr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false)
 
 </div>
