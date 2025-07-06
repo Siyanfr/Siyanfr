@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 Hi! I'm Cean!
   🎓 Pursuing a **Computer Science** degree at **Holy Angel University**.<br/>
   📜 Pursuing a **Professional Certificate in Data Science from IBM**.<br/>
@@ -29,4 +31,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Siyanfr&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
