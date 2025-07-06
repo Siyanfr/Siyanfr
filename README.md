@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 Hi! I'm Cean!
   🎓 Pursuing a **Computer Science** degree at **Holy Angel University**.<br/>
@@ -22,14 +22,22 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Siyanfr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siyanfr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false" />
+
+</div>
+
+
 
 ![snake gif](https://github.com/Siyanfr/Siyanfr/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Siyanfr&icon=1&color=4)](https://visitcount.itsvg.in)
 
-</div>
+
 
