@@ -24,6 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Siyanfr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false)
 
+![snake gif](https://github.com/Siyanfr/Siyanfr/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Siyanfr&icon=1&color=4)](https://visitcount.itsvg.in)
