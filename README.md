@@ -22,7 +22,19 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# 📊 GitHub Stats
 
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=Siyanfr&theme=chartreuse-dark&hide_border=false)
+
+</div>
+
+
+
+![snake gif](https://github.com/Siyanfr/Siyanfr/blob/output/github-snake-dark.svg)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=Siyanfr&icon=1&color=4)](https://visitcount.itsvg.in)
 
