@@ -8,10 +8,6 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cean-carosus-57aa3023a) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carosuscean@yahoo.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Siyannnn/)
-
-
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
